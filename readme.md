@@ -11,6 +11,9 @@ The main part of the editor is of course editing of the levels themselves. This 
 ![alt text](./docs/images/intro/00_editor.JPG)
 ###### The editor will show all the level and tile information
 
+![alt text](./docs/images/intro/00_editor_02.png)
+###### Bring your own creativity and ideas into the SkyRoads level design
+
 #### Level Editing - Palette
 Another part of the level editor is the palette editor. This screen will allow you to change the colors of the level on the fly, indicating which colors have special properties - as well as showing a text of what palette index means in the game. The colors can be changed with rgb-sliders using the mouse, but can also be copied and pasted within a palette or between palettes.
 
@@ -24,3 +27,5 @@ In the Gfx screen, you will be able to load LZS-images from file, including thos
 ###### The gfx editor showing image 2/10 in INTRO.LZS
 
 ![alt text](./docs/images/intro/02_gfx_02.png)
+###### The images can be changed in the editor and will be loaded in the game
+
