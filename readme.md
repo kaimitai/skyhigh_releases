@@ -12,10 +12,10 @@ The main part of the editor is of course editing of the levels themselves. This 
 ###### The editor will show all the level and tile information
 
 ![alt text](./docs/images/intro/00_editor_02.png)
-###### Bring your own creativity and ideas into the SkyRoads level design
+###### Bring your own creativity and ideas into SkyRoads level design
 
 #### Level Editing - Palette
-Another part of the level editor is the palette editor. This screen will allow you to change the colors of the level on the fly, indicating which colors have special properties - as well as showing a text of what palette index means in the game. The colors can be changed with rgb-sliders using the mouse, but can also be copied and pasted within a palette or between palettes.
+Another part of the level editor is the palette editor. This screen will allow you to change the colors of the level on the fly, indicating which colors have special properties - as well as showing a text of what a certain palette index is used for in the game. The colors can be changed with rgb-sliders using the mouse, but can also be copied and pasted within a palette or between palettes.
 
 ![alt text](./docs/images/intro/01_palette.JPG)
 ###### The palette editor will show all the palette information for a given level
