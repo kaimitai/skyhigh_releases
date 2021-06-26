@@ -1,6 +1,6 @@
 # Sky High SkyRoads Editor
 
-Welcome to the Sky High release repository. Here we will post new releases of the software when they are available. The first release is scheduled for Saturday, June 26th, 2021 - so make sure to check back here then!
+Welcome to the Sky High release repository. Here we will post new releases of the software when they are available. The current version is 0.9.
 
 ### Editor Capabilities
 The editor in its current state is fairly capable, but we aim to add more functionality with time. As of now, the following functions will be available:
