@@ -46,3 +46,6 @@ In the Gfx screen in the Sky High editor, you will be able to load LZS-images fr
 * Added support for reading the demo level packs with fewer than 31 levels.
 * Added support for automatically determining the best compression parameters for any level.
 * Added support for saving and loading level files as xml.
+
+#### Knowns bugs and errata
+* The documentation says that - in the graphics metadata xml - transparency is a property of the bitmaps. It is in fact a property of the palettes.
